@@ -6,7 +6,7 @@
 //
 
 import Foundation
-class DemoLib {
+public class DemoLib {
     
     private init () {}
     
