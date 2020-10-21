@@ -1,0 +1,16 @@
+PODS:
+  - CustomLib (0.1.0)
+
+DEPENDENCIES:
+  - CustomLib (from `../`)
+
+EXTERNAL SOURCES:
+  CustomLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomLib: 7143f92eeb4932e0c1cdf30620c0916f62cc1b7f
+
+PODFILE CHECKSUM: f673626be473ceb431f91949ac475ce710c3662e
+
+COCOAPODS: 1.8.4
