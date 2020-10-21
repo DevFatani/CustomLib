@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CustomLib_Example' do
+  pod 'CustomLib', :path => '../'
+
+  target 'CustomLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
